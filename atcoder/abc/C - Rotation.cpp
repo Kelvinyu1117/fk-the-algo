@@ -3,6 +3,7 @@
 #include <deque>
 using namespace std;
 
+// AtCoder Beginner Contest 258
 int main()
 {
     int n, q;

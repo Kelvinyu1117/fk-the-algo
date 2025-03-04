@@ -4,6 +4,7 @@
 #include <cmath>
 using namespace std;
 
+// AtCoder Beginner Contest 245
 int main()
 {
     int n, k;
