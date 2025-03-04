@@ -2,7 +2,7 @@
 #include <vector>
 using namespace std;
 
-
+// 2023秋（AtCoder Beginner Contest 325）
 void dfs(std::vector<std::vector<char>>& grid, int h, int w, int i, int j) {
     if(i < 0 || i >= h || j < 0 || j >= w) return;
     if(grid[i][j] != '#') return;

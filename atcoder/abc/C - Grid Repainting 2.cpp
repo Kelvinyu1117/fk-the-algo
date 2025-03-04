@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 using namespace std;
-
+// AtCoder Beginner Contest 096
 int main()
 {
     int h, w;
