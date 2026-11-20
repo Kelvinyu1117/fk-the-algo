@@ -1,0 +1,21 @@
+# Local test input/output scratch files
+input.txt
+output.txt
+expected.txt
+
+# Accidental binaries or object files (in case you run g++ manually)
+*.out
+*.exe
+*.o
+sol
+
+# Precompiled headers (if you precompile bits/stdc++.h later)
+*.gch
+*.pch
+
+# Editor & clangd cache directories
+.cache/
+.vscode/
+.idea/
+*.swp
+
